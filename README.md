@@ -5,6 +5,9 @@ the sequence of color buttons to be pressed. The user then has to copy that part
 another colored button gets added to that sequence making the sequence longer as each level progresses. The user can make upto as many stages
 as they are able to.
 
+
+I added sounds to the game upon button pressing and gameover sound when the player loses the game. All the sound files are available in the sounds folder.
+
 Run Instructions: You can either download the files and open index.html with a browser, or you can access this link to play the game
 online: https://msalman81.github.io/Simon-Game/
 
