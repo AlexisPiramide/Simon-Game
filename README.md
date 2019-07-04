@@ -9,3 +9,6 @@ Run Instructions: You can either download the files and open index.html with a b
 online: https://msalman81.github.io/Simon-Game/
 
 Here is a sneakpeak from the game!
+
+![Capture](https://user-images.githubusercontent.com/46281169/60651872-8a8c2480-9e60-11e9-9e6f-feeb76e6e159.PNG)
+
